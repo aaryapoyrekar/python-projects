@@ -1,2 +1,2 @@
-# python-projects
+# Python-projects
 A collection of small Python projects.
