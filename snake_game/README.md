@@ -6,7 +6,7 @@ The player controls the snake using arrow keys and tries to eat food to grow in 
 ---
 
 ## 📸 Screenshot
-* `![Snake Game](snake_game.png)`)*
+* `![Snake Game](snake_game.jpg)`)*
 
 ---
 
